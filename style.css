@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
 
 :root{
-    --purple:#814096;
-    --pink:#F83292;
+    --purple:#0926ac;
+    --pink:#3e5ff3;
     --gradient:linear-gradient(90deg, var(--purple), var(--pink));
 }
 
